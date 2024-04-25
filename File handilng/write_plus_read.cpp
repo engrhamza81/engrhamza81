@@ -10,7 +10,7 @@ int main(){
     {
         cout<<old_text<<endl;
     }
-     text.clear();
+    text.clear();
     text<<"This is new text added here"<<endl;
     text<<"I am doing EleectricAL Engineering"<<endl;
     text.close();
