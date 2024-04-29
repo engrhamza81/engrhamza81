@@ -1,8 +1,3 @@
-Engineer Hamza From GIKI
-This is new text added here
-This is new text added here
-EleectricAL Engineering
-Hamza
-This is new text added here
-I am doing EleectricAL Engineering
-Appended text is ADDED
+The Name of the student is:Hamza
+The Age of the student is:19
+The Roll No of the student is:2023217
