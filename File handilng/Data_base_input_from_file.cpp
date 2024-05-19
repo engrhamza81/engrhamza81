@@ -25,10 +25,7 @@ class student{
         file>> grade;
         arr[i]=student(age,name,roll_no,grade);
     }
-    
-    }
-
-
+ }
 int main(){
     string line;
     int size=0;
@@ -49,9 +46,5 @@ int main(){
         cout << "The grade of student " << i + 1 << " is: " << arr[i].grade << endl;
         cout << "TheRoll NO of student " << i + 1 << " is: " << arr[i].roll_no << endl;
     }
-
-
-
-
 return 0;
 }

@@ -3,3 +3,5 @@ Jane Smith,22,janesmith@example.com,Female,Bachelor's,Engineering,1002
 Michael Johnson,28,michaeljohnson@example.com,Male,Master's,Business Administration,1003
 Emily Brown,24,emilybrown@example.com,Female,Bachelor's,Psychology,1004
 David Wilson,26,davidwilson@example.com,Male,Master's,Information Technology,1005
+HAMZA,19,ahenwari123,M,bs,FEE,2023217
+aFZAL,16,DSFDS,M,BS,CS,2023214
